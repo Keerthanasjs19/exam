@@ -1,0 +1,24 @@
+{
+    "products": [
+      { "id": 1, "name": "Apple", "price": 110 },
+      { "id": 2, "name": "Banana", "price": 80 },
+      { "id": 3, "name": "Orange", "price": 60 },
+      { "id": 4, "name": "Pineapple", "price": 130 },
+      { "id": 5, "name": "Mango", "price": 150 },
+      { "id": 6, "name": "Strawberry", "price": 220 },
+      { "id": 7, "name": "Blueberry", "price": 270 },
+      { "id": 8, "name": "Grapes", "price": 90 },
+      { "id": 9, "name": "Lemon", "price": 20 },
+      { "id": 10, "name": "Peach", "price": 160 },
+      { "id": 11, "name": "Watermelon", "price": 150 },
+      { "id": 12, "name": "Cherry", "price": 280 },
+      { "id": 13, "name": "Kiwi", "price": 220 },
+      { "id": 14, "name": "Papaya", "price": 100 },
+      { "id": 15, "name": "Grapefruit", "price": 140 },
+      { "id": 16, "name": "Coconut", "price": 50 },
+      { "id": 17, "name": "Raspberry", "price": 250 },
+      { "id": 18, "name": "Blackberry", "price": 260 },
+      { "id": 19, "name": "Dragonfruit", "price": 500 },
+      { "id": 20, "name": "Tomato", "price": 40 }
+    ]
+  }
